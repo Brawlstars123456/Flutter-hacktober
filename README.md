@@ -8,19 +8,7 @@
   <br>
   <br>
   
-<p align="center">    
-  <a href="https://www.linkedin.com/in/abhishekdwibedy/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  
-  <a href="https://www.instagram.com/abhishek_dwibedy/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-   </a>&ensp;
- 
-   <a href="mailto:dwibedyabhishek1@gmail.com">
-    <img width="30px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" />
-   </a>&ensp;
-</p>
+
 
 # :gift: Hacktoberfest 2021
 
@@ -123,8 +111,4 @@ git push origin branch_name
   
 
 
- ## 	:game_die: Shoutout to all the contributors ❤️
 
-<a href="https://github.com/abhishekdwibedy-2002/Flutter-Workspace/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhishekdwibedy-2002/Flutter-Workspace" />
-</a>
